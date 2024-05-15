@@ -3,7 +3,7 @@ Learning-AI
 
 ## Description
 
-This is a repository about artificial intelegence learning (training) and inferencing using torch, transformers, and accelerate for multi gpu / multi system computing. This is a project around learning the various training techniques.
+This repository focuses on artificial intelligence learning (training) and inferencing using torch, transformers, and accelerate for multi-GPU/multi-system computing. It is a project dedicated to exploring various training techniques.
 
 ## Table of Contents
 
@@ -14,16 +14,18 @@ This is a repository about artificial intelegence learning (training) and infere
 
 ## Installation
 
-WIP
+Work in progress.
 
 ## Usage
 
-WIP
+Work in progress.
 
 ## Contributing
 
-WIP
+Work in progress.
 
 ## License
 
 This project is licensed under the terms of the [LICENSE](LICENSE) file.
+
+Code used may be from other sources and is subject to their respective licenses and code ownership.
